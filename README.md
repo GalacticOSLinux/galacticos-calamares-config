@@ -1,1 +1,0 @@
-# galacticos-calamares-config
